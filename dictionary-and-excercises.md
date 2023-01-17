@@ -77,9 +77,7 @@
 | lightweight operating system                  | lekki system operacyjny (o niskich wymogach sprzętowych)                                                |
 | lockboxes                                     | skrytki                                                                                                 |
 | lot (internet of things)                      | sieć obiektów rzeczy (obiektów)                                                                         |
-| malicious                                     | złośliwy                                                                                                |
-| malicious                                     | złośliwy                                                                                                |
-| malware                                       | złośliwe oprogramowanie                                                                                 |
+| malicious                                     | złośliwy                                                                                                                                                                                |
 | malware                                       | złośliwe oprogramowanie                                                                                 |
 | measurements                                  | pomiary                                                                                                 |
 | measures                                      | środki                                                                                                  |
@@ -103,8 +101,7 @@
 | quality team                                  | zespół ds. jakości                                                                                      |
 | ransom                                        | okup                                                                                                    |
 | ransomware                                    | oprogramowanie blokujące dostęp do systemu komputerowego lub plików mające na celu wyłudzenie pieniędzy |
-| readiness                                     | gotowość                                                                                                |
-| readiness                                     | gotowość                                                                                                |
+| readiness                                     | gotowość                                                                                                                                                                                       |
 | reflection                                    | odbicie                                                                                                 |
 | relational database management system (rdbms) | system zarządzania relacyjną bazą danych                                                                |
 | requirement analysis                          | analiza wymagań                                                                                         |
